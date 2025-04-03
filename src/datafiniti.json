@@ -1,0 +1,15 @@
+{
+  "author": "Nick Hughes",
+  "createdAt": "2024-04-03",
+  "homepage": "https://datafiniti.co",
+  "identifier": "datafiniti",
+  "manifest": "https://gatewa-bice.vercel.app/plugins/datafiniti-manifest.json",
+  "meta": {
+    "avatar": "🏡",
+    "description": "Search for real estate properties with detailed filtering",
+    "tags": ["real estate", "properties", "search"],
+    "title": "Real Estate Property Search",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+} 
