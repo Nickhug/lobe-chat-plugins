@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Changelog
+# Changelog v1
 
 # [1.9.0](https://github.com/lobehub/lobe-chat-plugins/compare/v1.8.0...v1.9.0) (2025-01-24)
 

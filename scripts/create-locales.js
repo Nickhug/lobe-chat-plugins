@@ -26,7 +26,7 @@ const locales = [
   'zh-TW'
 ];
 
-const plugins = ['datafiniti', 'tavily'];
+const plugins = ['propertai', 'tavily'];
 
 plugins.forEach(plugin => {
   // Read the en-US file as template
